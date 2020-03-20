@@ -1,0 +1,15 @@
+{
+  "name": "lucy",
+  "version": "1.0.0",
+  "description": "Rien n'est solide, la vie est une cour d'école immense.",
+  "main": "lompal.js",
+  "repository": "https://github.com/letItCurl/lucy",
+  "author": "letItCurl",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "scripts": {
+    "rap": "node lompal.js"
+  }
+}
