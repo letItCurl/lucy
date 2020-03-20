@@ -11,7 +11,7 @@ cd salle
 yarn add @letitcurl/lucy
 touch scene.js
 ```
-and the following to your scene.js:
+and add the following to your scene.js:
 
 ```
 const lompal = require('@letitcurl/lucy')
