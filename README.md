@@ -17,6 +17,10 @@ and add the following to your scene.js:
 const lompal = require('@letitcurl/lucy')
 lompal.dropTheMic()
 ```
+Excecute the script in the terminal:
+```
+user@machine:~/workspace/salle/$ node scene.js
+```
 
-hihihi
+With love
 
