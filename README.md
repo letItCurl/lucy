@@ -3,6 +3,8 @@ Rien n'est solide, la vie est une cour d'école immense.
 
 # how to use this ?
 
+Execute the following steps:
+
 ```
 mkdir salle
 cd salle
