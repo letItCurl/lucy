@@ -1,5 +1,7 @@
 # lucy
-Rien n'est solide, la vie est une cour d'école immense.
+> My first NPM package ever 🙀
+
+***Rien n'est solide, la vie est une cour d'école immense.***
 
 # how to use this ?
 
