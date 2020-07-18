@@ -28,7 +28,7 @@ With love 💋
 
 # About
 Project made from scratch by me, for you, with <3. 
-It uses <a href="https://github.com/letItCurl/gol-engine">a custom node_module<a/>, developed by me, coded also in Typescript.
+
 <table style="border: none;">
   <tr>
     <td>
