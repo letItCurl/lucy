@@ -24,7 +24,7 @@ Excecute the script in the terminal:
 user@machine:~/workspace/salle/$ node scene.js
 ```
 
-With love 💋
+💋 With love 💋
 
 # About
 Project made from scratch by me, for you, with <3. 
